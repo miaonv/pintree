@@ -75,7 +75,7 @@ export function Header({
               onClick={() => setDialogOpen(true)}
             >
               <Plus className="h-4 w-4 mr-2" />
-              新书签
+              New Bookmark
             </Button>
           </>
         )}
